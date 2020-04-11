@@ -1,6 +1,5 @@
 #schema management
-{
-  "$schema": 
+  "$schema"
   "contentVersion":
   "parameters": {
     "storageAccountType": {
