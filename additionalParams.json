@@ -1,6 +1,6 @@
 #schema management
 {
-  "$schema": "https://schema.management.azure.com/schemas/
+  "$schema": "https://schema.management.azure.com/
   "contentVersion": "1.0.0.0",
   "parameters": {
     "storageAccountType": {
